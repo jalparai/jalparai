@@ -1,19 +1,55 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi, I'm Jalpa Rai 👋
 
+Frontend Developer with 3+ years of experience building production web applications for global clients and fast-moving teams. I care deeply about how interfaces feel — and equally about understanding the systems behind them.
 
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) Java(Oop,DSA)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jalparai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jalparai&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jalparai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jalparai&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+Currently based in Karachi, Pakistan. Open to remote and relocation.
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 What I'm working on
+
+Building and maintaining production web applications at **Civilized Savage LLC** — integrating Sanity CMS with React/Next.js frontends, designing reusable component libraries, and collaborating closely with backend and design teams to ship pixel-perfect, performant UIs.
+
+## 🌱 What I'm learning
+
+Deepening my knowledge of **TypeScript** — transitioning deliberately from JavaScript to build more robust, scalable frontend systems. Also exploring how frontend decisions connect to backend architecture and cloud infrastructure.
+
+## 👯 What I'm open to collaborating on
+
+Open source React and Next.js projects — especially component libraries, developer tooling, or anything at the intersection of great UI and solid engineering. If you're building something interesting, reach out.
+
+## 💬 Ask me about
+
+React.js, Next.js, Sanity CMS, TailwindCSS, Framer Motion, Figma-to-code workflows, or managing client projects end-to-end as a freelancer.
+
+## ⚡ Fun fact
+
+I taught myself Sanity CMS on the job — nobody asked me to. I just realised I couldn't make good frontend decisions without understanding what was happening on the other side of the data layer. That curiosity is how I approach every new challenge.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript *(in progress)*
+
+**Frameworks & Libraries:** React.js, Next.js, TailwindCSS, Bootstrap 5, Framer Motion
+
+**CMS:** Sanity CMS — schema design, GROQ queries, content modelling
+
+**Tools:** Git & GitHub, Figma, Adobe XD, REST APIs, npm/Yarn, CI pipelines
+
+---
+
+## 📊 GitHub Stats
+
+![Jalpa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalparai&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalparai&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalparai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 📫 How to reach me
+
+- Email: jalparai419@gmail.com
+- LinkedIn: [linkedin.com/in/jeenu-rai](https://linkedin.com/in/jeenu-rai)
+- Fiverr: [fiverr.com/jalpa_rai](https://fiverr.com/jalpa_rai)
